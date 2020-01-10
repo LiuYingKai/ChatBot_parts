@@ -9,3 +9,5 @@ weibo.py 通过TF-IDF计算每条微博新闻的关键词
 再运行model.py进行运行
 
 代码逻辑待优化, 本来是作为一个小组件存在的. 还存在很多不足, 希望大家多多提供宝贵意见
+返回False时转为自己的聊天机器人
+![image](https://github.com/LiuYingKai/ChatBot_parts/blob/master/%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9D%97/1.png)
